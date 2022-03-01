@@ -6,7 +6,7 @@
 
 <h1>About Us</h1>
 
-- Dedicated to empowering our members with skills ranging from inverse kinematics and robot physics to team building and oraganized workflows.
+- Dedicated to empowering our members with skills ranging from inverse kinematics and robot physics to team building and organized workflows.
 - **Four-time** FIRST Championship Competitiors
 - **Two-time** Winners of the Rock City Regional
 - **Two-time** Winners of the Bayou Regional
