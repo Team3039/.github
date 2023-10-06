@@ -8,8 +8,8 @@
 
 - Dedicated to empowering our members with skills ranging from inverse kinematics and robot physics to team building and organized workflows.
 - **Five-time** FIRST Championship Competitiors
-- **Two-time** Winners of the Rock City Regional
-- **Two-time** Winners of the Bayou Regional
+- **2019** Winners of the Rock City Regional
+- **2015** Winners of the Bayou Regional
 - **First-Ever** Winners of the Magnolia Regional
 - 2019 **Engineering Inspiration Award** Winners at the Rock City Regional
 - 2020 **Autonomous Award** Winners at the Rock City Regional
