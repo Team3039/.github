@@ -7,12 +7,13 @@
 <h1>About Us</h1>
 
 - Dedicated to empowering our members with skills ranging from inverse kinematics and robot physics to team building and organized workflows.
-- **Five-time** FIRST Championship Competitiors
+- **Six-time** FIRST Championship Competitiors
 - **2019 Winners** of the Rock City Regional
 - **2015 Winners** of the Bayou Regional
-- **2023 First-Ever Winners** of the Magnolia Regional
+-  **2023 (Rank 1) Winner**Magnolia Regional 
 - 2019 **Engineering Inspiration Award** Winners at the Rock City Regional
 - 2020 **Autonomous Award** Winners at the Rock City Regional
+- 2023 *Team Spirit Award* Newton Division
 
 (We're Pretty Cool)
 
