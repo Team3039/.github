@@ -6,7 +6,7 @@
 
 <h1>About Us</h1>
 
-- Dedicated to empowering our members with skills ranging from inverse kinematics, robot physics, automatic pathfinding, april tag pose estimation, and team building! Here at Wildcat Robtics we strive for inprovement and hope to have fun every year.
+- Dedicated to empowering our members with skills ranging from inverse kinematics, robot physics, automatic pathfinding, april tag pose estimation, and team building! Here at Wildcat Robtics we strive for inprovement and hope to have fun for the past 16 years.
   
 - **Six-time** FIRST Championship Competitiors
 - **2019 Winners** of the Rock City Regional
