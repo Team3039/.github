@@ -15,7 +15,7 @@
 - **2020 Autonomous Award** Winners at the Rock City Regional
 -  **2023 (Rank 1) Winner** of the Magnolia Regional 
 - **2023 Team Spirit Award** Newton Division
-- ** 2025	Bayou Regional**	Team Sustainability Award
+- **2025	Bayou Regional**	Team Sustainability Award
 
 (We're Pretty Cool)
 
