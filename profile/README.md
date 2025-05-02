@@ -9,13 +9,13 @@
 - Dedicated to empowering our members with skills ranging from inverse kinematics, robot physics, automatic pathfinding, april tag pose estimation, and team building! Here at Wildcat Robtics we strive for inprovement and hope to have fun for the past 16 years.
   
 - **Six-time** FIRST Championship Competitiors
-- **2019 Winners** of the Rock City Regional
 - **2015 Winners** of the Bayou Regional
-- 2019 **Engineering Inspiration Award** Winners at the Rock City Regional
-- 2020 **Autonomous Award** Winners at the Rock City Regional
+- **2019 Winners** of the Rock City Regional
+- **2019 Engineering Inspiration Award** Winners at the Rock City Regional
+- **2020 Autonomous Award** Winners at the Rock City Regional
 -  **2023 (Rank 1) Winner** of the Magnolia Regional 
-- 2023 *Team Spirit Award* Newton Division
-- 2025	**Bayou Regional**	Team Sustainability Award
+- **2023 Team Spirit Award** Newton Division
+- ** 2025	Bayou Regional**	Team Sustainability Award
 
 (We're Pretty Cool)
 
