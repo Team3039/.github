@@ -16,6 +16,7 @@
 -  **2023 (Rank 1) Winner** of the Magnolia Regional 
 - **2023 Team Spirit Award** Newton Division
 - **2025	Bayou Regional**	Team Sustainability Award
+- **2026	Magnolia Regional**	Creativity Award
 
 (We're Pretty Cool)
 
